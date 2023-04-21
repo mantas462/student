@@ -23,9 +23,15 @@ If you do not have JDK nor JavaFX
 1. Send me an email and I will send you the installation of the program or zipped file with the needed files.
 
 
-#### 
+#### Description of the program
 
 If you want to import a file into the program, please click the 'Select file' button.
 If you want to save an existing list to a file, please click the 'Save file' button.
 If you want to sort the existing list in the program, please select the desired sorting method from the drop-down menu.
 After sorting, the time taken by the algorithm will be displayed in an alert pop-up window.
+
+#### Example input
+Student1,8.5
+Student2,6.5
+Student3,5.0
+
