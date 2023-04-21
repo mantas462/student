@@ -20,7 +20,7 @@ If you have JDK but no JavafX:
 1. Launch student-1.0-SNAPSHOT-shaded.jar file which you can find here: https://github.com/mantas462/student/tree/master/JAR%20FILE
 
 If you do not have JDK nor JavaFX
-1. Send me an email and I will send you the installation of the program or zipped file with the needed files.
+1. Send me an email and I will send you the installation of the program or zipped file with the needed files because GitHub does not allow to upload large files.
 
 
 #### Description of the program
